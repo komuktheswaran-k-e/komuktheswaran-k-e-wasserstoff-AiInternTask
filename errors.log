@@ -1,0 +1,8 @@
+root - ERROR - Error processing C:\\Users\\JL COMPUTERS\\Desktop\\AiInternTask\\pdfs\A Trip Through The Graphics Pipeline - All (Short Version).pdf: EOF marker not found
+root - ERROR - Error processing C:\\Users\\JL COMPUTERS\\Desktop\\AiInternTask\\pdfs\Bitmap Graphics and Bitblit - Course Notes - SIGGRAPH 1984 (pike84bitblt).pdf: argument of type 'NullObject' is not iterable
+root - ERROR - Error processing C:\\Users\\JL COMPUTERS\\Desktop\\AiInternTask\\pdfs\Bitmap Graphs SIGGRAPH84 Course Notes (pike84bitblt).pdf: argument of type 'NullObject' is not iterable
+root - ERROR - Error processing C:\\Users\\JL COMPUTERS\\Desktop\\AiInternTask\\pdfs\Intel IO Acceleration Technology Overview.pdf: [Errno 22] Invalid argument
+root - ERROR - Error processing C:\\Users\\JL COMPUTERS\\Desktop\\AiInternTask\\pdfs\Just-in-Time Static Type Checking for Dynamic Languages (1604.03641v1).pdf: Invalid Elementary Object starting with b'\x88' @16459: b'**\x13\xee\xa8q;\x1a\xdb\t\x02O\x9b\xfc\x87\xc6\r?I?\x88Z\x84\xd3\x10$_\x96&\x92\x1e\xef\x10\xa4\xc0\xd4\xdd~4/\xea\xef;\xb7H\xaf\x86Y\xc7\xcd\xcbO`\x81%;M\xf7\xc1\x02\xe7\x0fu\x11\x0b,\xcb\x86\xfe\x0f\x03\xab\x06\x1cib\x89\xbf\xec\x87'
+root - ERROR - Error processing C:\\Users\\JL COMPUTERS\\Desktop\\AiInternTask\\pdfs\Meltdown (2018).pdf: trailer can not be read ('Unsupported flatedecode predictor 2',)
+root - ERROR - Error processing C:\\Users\\JL COMPUTERS\\Desktop\\AiInternTask\\pdfs\Spectre Attacks - Exploiting Speculative Execution (2018).pdf: trailer can not be read ('Unsupported flatedecode predictor 2',)
+root - ERROR - Error processing C:\\Users\\JL COMPUTERS\\Desktop\\AiInternTask\\pdfs\Why BitBlt was So Successful - SIGGRAPH 84 (pike84bitblt).pdf: argument of type 'NullObject' is not iterable
